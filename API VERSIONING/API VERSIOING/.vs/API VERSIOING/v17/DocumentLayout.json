@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\DOT NET INTERVIEW\\API VERSIONING\\API VERSIOING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323ACB7B-9DB8-4002-B82A-7CCB3F4699D7}|API VERSIOING\\API VERSIOING.csproj|h:\\dot net interview\\api versioning\\api versioing\\api versioing\\api versioing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{323ACB7B-9DB8-4002-B82A-7CCB3F4699D7}|API VERSIOING\\API VERSIOING.csproj|solutionrelative:api versioing\\api versioing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323ACB7B-9DB8-4002-B82A-7CCB3F4699D7}|API VERSIOING\\API VERSIOING.csproj|h:\\dot net interview\\api versioning\\api versioing\\api versioing\\controllers\\v2\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323ACB7B-9DB8-4002-B82A-7CCB3F4699D7}|API VERSIOING\\API VERSIOING.csproj|solutionrelative:api versioing\\controllers\\v2\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323ACB7B-9DB8-4002-B82A-7CCB3F4699D7}|API VERSIOING\\API VERSIOING.csproj|h:\\dot net interview\\api versioning\\api versioing\\api versioing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323ACB7B-9DB8-4002-B82A-7CCB3F4699D7}|API VERSIOING\\API VERSIOING.csproj|solutionrelative:api versioing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323ACB7B-9DB8-4002-B82A-7CCB3F4699D7}|API VERSIOING\\API VERSIOING.csproj|h:\\dot net interview\\api versioning\\api versioing\\api versioing\\controllers\\v1\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323ACB7B-9DB8-4002-B82A-7CCB3F4699D7}|API VERSIOING\\API VERSIOING.csproj|solutionrelative:api versioing\\controllers\\v1\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323ACB7B-9DB8-4002-B82A-7CCB3F4699D7}|API VERSIOING\\API VERSIOING.csproj|h:\\dot net interview\\api versioning\\api versioing\\api versioing\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323ACB7B-9DB8-4002-B82A-7CCB3F4699D7}|API VERSIOING\\API VERSIOING.csproj|solutionrelative:api versioing\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API VERSIOING.csproj",
+              "DocumentMoniker": "H:\\DOT NET INTERVIEW\\API VERSIONING\\API VERSIOING\\API VERSIOING\\API VERSIOING.csproj",
+              "RelativeDocumentMoniker": "API VERSIOING\\API VERSIOING.csproj",
+              "ToolTip": "H:\\DOT NET INTERVIEW\\API VERSIONING\\API VERSIOING\\API VERSIOING\\API VERSIOING.csproj",
+              "RelativeToolTip": "API VERSIOING\\API VERSIOING.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T05:49:30.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "H:\\DOT NET INTERVIEW\\API VERSIONING\\API VERSIOING\\API VERSIOING\\Controllers\\V2\\ProductController.cs",
+              "RelativeDocumentMoniker": "API VERSIOING\\Controllers\\V2\\ProductController.cs",
+              "ToolTip": "H:\\DOT NET INTERVIEW\\API VERSIONING\\API VERSIOING\\API VERSIOING\\Controllers\\V2\\ProductController.cs",
+              "RelativeToolTip": "API VERSIOING\\Controllers\\V2\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T00:13:29.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\DOT NET INTERVIEW\\API VERSIONING\\API VERSIOING\\API VERSIOING\\Program.cs",
+              "RelativeDocumentMoniker": "API VERSIOING\\Program.cs",
+              "ToolTip": "H:\\DOT NET INTERVIEW\\API VERSIONING\\API VERSIOING\\API VERSIOING\\Program.cs",
+              "RelativeToolTip": "API VERSIOING\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAawDQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:32:00.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "H:\\DOT NET INTERVIEW\\API VERSIONING\\API VERSIOING\\API VERSIOING\\Controllers\\V1\\ProductController.cs",
+              "RelativeDocumentMoniker": "API VERSIOING\\Controllers\\V1\\ProductController.cs",
+              "ToolTip": "H:\\DOT NET INTERVIEW\\API VERSIONING\\API VERSIOING\\API VERSIOING\\Controllers\\V1\\ProductController.cs",
+              "RelativeToolTip": "API VERSIOING\\Controllers\\V1\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:25:09.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "H:\\DOT NET INTERVIEW\\API VERSIONING\\API VERSIOING\\API VERSIOING\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API VERSIOING\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "H:\\DOT NET INTERVIEW\\API VERSIONING\\API VERSIOING\\API VERSIOING\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API VERSIOING\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:13:12.148Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
